@@ -5,7 +5,6 @@ Olá, me chamo Vinicius Werner
 
 ###       Front-end Dev Junior
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&hide_progress=truetheme=radical)
 
 <br>
 <div> 
