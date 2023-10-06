@@ -1,7 +1,7 @@
 
 <div align='center'>
     <a href="https://github.com/lvwerner"></a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hey+dude!;My+name+is+Werner%2C+and+I'm+a+junior+developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hey+dude!;My+name+is+Vinicius+Werner%2C+and+I'm+a+junior+developer">
 </div>
     
 
