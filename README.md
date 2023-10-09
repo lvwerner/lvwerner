@@ -1,21 +1,38 @@
+## Hey, I'm Vinicius Werner! 😃
 
-<div align='center'>
-    <a href="https://github.com/lvwerner"></a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hey+dude!;My+name+is+Vinicius+Werner%2C+and+I'm+a+junior+developer">
-</div>
-    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lvwerner&color=blue" alt="Profile views" /> </p>
 
-</div>
-- Técnico Desenvolvimento de Sistemas 
-- Estudando JavaScript, HTML e CSS 
+- Hey! I'm Vini, a 18yo brazilian software developer who's been head over heels for web3 since i turned 17. currently diving into web3 and studying non-stop to become the best version of myself.
+- 🌱 Code and web development enthusiast.
+- 📫 Contact-me at: contato.joaorosera@gmail.com.
 
+  
+## 💻 &nbsp;Work with these stacks
 
-###       Front-end Dev Junior
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 
+## 🛠 &nbsp;Other stacks
 
-<br>
-<div> 
-  <a href="https://www.instagram.com/vwerner_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:viniciushhardt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-werner-hardt-a4229a226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+## 📔 &nbsp;Learning more about
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+
+## 🌍 &nbsp;Activities
+<p align="left">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</p>
+
+ ## 👩🏽‍💻 &nbsp; Socials / Contact
+
+<p align="left" style="background:yellow">
+  <a href="[https://linkedin.com/in/j](https://www.linkedin.com/in/vinicius-werner-hardt-a4229a226/)" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-lvwerner-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+</p>
 
