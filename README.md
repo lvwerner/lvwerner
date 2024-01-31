@@ -1,4 +1,4 @@
-<h1><b>Vinicius Werner - Desenvolvedor Web Full Stack</b></h1>
+<h1><b>Desenvolvedor Web Full Stack</b></h1>
 
 👨‍💻 Experiência sólida em desenvolvimento web full stack.<br>
 🎓 Estudante de Engenharia de Software.<br>
