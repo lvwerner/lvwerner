@@ -11,7 +11,7 @@ Design responsivo e acessibilidade<br>
 <h2>Backend</h2>
 Node.js, Express
 Banco de Dados:  MySQL
-APIs RESTful
+APIs
 Ferramentas e Outras Habilidades<br>
 Controle de Versão: Git, GitHub
 
