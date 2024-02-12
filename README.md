@@ -9,7 +9,7 @@ HTML5, CSS3, JavaScript (ES6+)
 Frameworks: React,
 Design responsivo e acessibilidade<br>
 <h2>Backend</h2>
-Node.js, Express
+Node.js, 
 Banco de Dados:  MySQL
 APIs
 Ferramentas e Outras Habilidades<br>
