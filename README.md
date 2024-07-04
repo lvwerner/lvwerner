@@ -5,12 +5,12 @@
 🌐 Especializado em construir aplicações web robustas e intuitivas.<br>
 <h1>Habilidades</h1>
 <h2>Frontend</h2>
-HTML5, CSS3, JavaScript (ES6+)
-Frameworks: React,
+HTML5, CSS3, JavaScript (ES6+), Python, PHP<br>
+Frameworks: React, CodeIgniter,
 Design responsivo e acessibilidade<br>
 <h2>Backend</h2>
 Node.js, 
-Banco de Dados:  MySQL
+Banco de Dados:  MySQL, ORACLE
 APIs
 Ferramentas e Outras Habilidades<br>
 Controle de Versão: Git, GitHub
