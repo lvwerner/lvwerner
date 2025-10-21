@@ -1,45 +1,62 @@
-# 💻 Desenvolvedor Web Full Stack  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9AD0EC"/>
 
-👨‍💻 Experiência sólida em desenvolvimento web full stack  
-🎓 Estudante de Engenharia de Software  
-🌐 Especializado em construir aplicações web robustas e intuitivas  
-
----
-
-## 🚀 Habilidades  
-
-### 🎨 Frontend  
-- HTML5, CSS3, JavaScript (ES6+), Python, PHP  
-- Frameworks: React, CodeIgniter  
-- Design responsivo e acessibilidade  
-
-### ⚙️ Backend  
-- Node.js, Golang, Java  
-- Banco de Dados: MySQL, Oracle, PL/SQL  
-- Integração de APIs e WebServices  
-
-### 🛠️ Ferramentas  
-- Controle de versão: Git & GitHub  
-
----
-
-## 🛠️ Development Stack  
+<br>
 
 <div align="center">
   
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  <samp>
+    👋 Olá, mundo!  
+    <br>
+    Seja bem-vindo(a) ao meu perfil!
+  </samp>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=9AD0EC&center=true&width=900&lines=Sou+Vini+Werner!;Desenvolvedor+Web+Full+Stack;Apaixonado+por+tecnologia+e+inovação;Sempre+em+busca+de+novos+desafios)](https://git.io/typing-svg)
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Desenvolvedor Web Full Stack  
+🎓 Estudante de Engenharia de Software  
+⚙️ Experiência em sistemas corporativos e integrações complexas  
+🌐 Foco em aplicações performáticas, seguras e escaláveis  
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 🎨 Front-end
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" />
+
+<br><br>
+
+### ⚙️ Back-end & Databases
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+
+<br><br>
+
+### 🧰 Ferramentas & DevOps
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 </div>
 
@@ -48,14 +65,32 @@
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lvwerner&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&title_color=9AD0EC&icon_color=9AD0EC&border_radius=10"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=10&theme=tokyonight&title_color=9AD0EC&border_radius=10"/>
+  <br><br>
+  <img align="center" alt="GitHub Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvwerner&theme=tokyonight"/>
+</div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lvwerner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />  
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
+---
+
+<div align="center">
+
+### 🌐 Conecte-se comigo  
+
+[![Gmail](https://img.shields.io/badge/Gmail-9AD0EC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciushhardt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9AD0EC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-werner/)
+[![Instagram](https://img.shields.io/badge/Instagram-9AD0EC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vwerner_/)
 
 </div>
 
 ---
 
 <p align="center">
-  <i>"Sempre aprendendo e evoluindo no mundo da tecnologia."</i>
+  <samp>
+    💡 “Transformando ideias em código e código em soluções.”
+  </samp>
 </p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9AD0EC&height=100&section=footer"/>
