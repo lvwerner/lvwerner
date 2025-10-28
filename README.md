@@ -10,7 +10,7 @@
     Seja bem-vindo(a) ao meu perfil!
   </samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=9AD0EC&center=true&width=900&lines=Sou+Vini+Werner!;Desenvolvedor+Web+Full+Stack;Apaixonado+por+tecnologia+e+inovação;Sempre+em+busca+de+novos+desafios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=9AD0EC&center=true&width=900&lines=Sou+Vini+Werner!;Desenvolvedor+JAVA;Apaixonado+por+tecnologia+e+inovação;Sempre+em+busca+de+novos+desafios)](https://git.io/typing-svg)
 </div>
 
 ---
