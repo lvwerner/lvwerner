@@ -65,7 +65,6 @@
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lvwerner&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&title_color=9AD0EC&icon_color=9AD0EC&border_radius=10"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=10&theme=tokyonight&title_color=9AD0EC&border_radius=10"/>
   <br><br>
   <img align="center" alt="GitHub Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvwerner&theme=tokyonight"/>
@@ -74,6 +73,42 @@
 ---
 
 <div align="center">
+
+<details>
+  <summary><b>🏆 Projetos SENAI</b></summary>
+<H3> Veja o resultado clicando nas imagens!</H3> </p>
+  <p align="center">
+  <a href="https://recout.vercel.app/pages/index.html" target="_blank">
+    <img height="50" src="https://i.pinimg.com/originals/d1/fb/3b/d1fb3bf49bccfcb4cec16b81dd689054.png" />
+    </a>
+    <br>
+    <a href="https://fichaja.clout.tec.br" target="_blank">
+    <img height="100" src="https://res.cloudinary.com/dcyovifbd/image/upload/v1768747930/noar_xjrdix.png" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🎓 Projetos UNIVILLE</b></summary>
+<H3> Veja o resultado clicando nas imagens! <br> *Apenas projetos DEV WEB.</H3> </p>
+  <p align="center">
+  <a href="https://calculadoravanilla.clout.tec.br" target="_blank">
+    <img height="130" src="https://res.cloudinary.com/dcyovifbd/image/upload/v1768904293/Logo_FIFO_Simulador_4_vllzt3.png" />
+    </a>
+    <br>
+    <a href="https://simuladordepaginacao.clout.tec.br" target="_blank">
+    <img height="130" src="https://res.cloudinary.com/dcyovifbd/image/upload/v1768748852/Logo_FIFO_Simulador_1_ghvm86.png" />
+    </a>
+    <br>
+  <a href="https://rhconnect.clout.tec.br" target="_blank">
+    <img height="100" src="https://res.cloudinary.com/dcyovifbd/image/upload/v1768748194/rhconnect_jwwx7p.png" />
+    </a>
+    <br>
+    
+  </p>
+</details>
+
+---
 
 ### 🌐 Conecte-se comigo  
 
