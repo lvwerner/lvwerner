@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0D1117,55:12263A,100:9AD0EC&text=VINICIUS%20WERNER&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=Java%20Developer%20at%20Neomind%20%7C%20Backend%20%7C%20Enterprise%20Systems&descAlignY=64"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0D1117,55:16324F,100:9AD0EC&text=VINICIUS%20WERNER&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=Java%20Developer%20at%20Neomind%20%7C%20Backend%20%7C%20Integra%C3%A7%C3%B5es&descAlignY=64"/>
 
 <br>
 
@@ -16,27 +16,27 @@
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=lvwerner&style=flat-square&color=9AD0EC&label=VISITAS+NO+PERFIL"/>
+
 </div>
 
 ---
 
-## About Me
+## Sobre mim
 
-I am a **Java Developer at Neomind**, working with backend development, enterprise systems, integrations and business process automation.
+Sou **Java Developer na Neomind**, com atuação em desenvolvimento backend e evolução de sistemas corporativos.
 
-My day-to-day work involves maintaining and evolving corporate applications, building and supporting APIs, working with SQL Server, troubleshooting production issues and improving reliability across business-critical workflows.
+No dia a dia trabalho com **Java, integrações REST/SOAP, SQL Server, automação de processos e análise de problemas em produção**, atuando desde a investigação da causa raiz até a implementação e validação da solução.
 
-I am currently strengthening my path toward **software architecture and technical leadership**, with focus on system design, technical ownership and engineering quality.
+Minha evolução profissional está direcionada para **arquitetura de software e liderança técnica**, ampliando gradualmente minha responsabilidade sobre decisões técnicas, qualidade de código e evolução dos sistemas.
 
 ---
 
-## Main Stack
+## Stack principal
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,docker,javascript&theme=dark"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Java-Backend-16324F?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-Database-16324F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -48,25 +48,26 @@ I am currently strengthening my path toward **software architecture and technica
 
 ---
 
-## What I Work With
+## Atuação profissional
 
 ```text
-Backend Engineering
-├── Java
-├── REST & SOAP APIs
-├── Enterprise Systems
-└── Business Process Automation
+Backend & Sistemas Corporativos
+├── Desenvolvimento e manutenção de aplicações Java
+├── Integrações REST e SOAP / WebServices
+├── Automação de processos de negócio
+└── Evolução de fluxos corporativos
 
-Data & Operations
+Dados & Produção
 ├── SQL Server
-├── Production Troubleshooting
-├── Root Cause Analysis
-└── System Reliability
+├── Consultas, relatórios e scripts de correção
+├── Troubleshooting de incidentes
+├── Análise de causa raiz
+└── Validação de integrações e consistência de dados
 ```
 
 ---
 
-## Certification
+## Certificação
 
 <div align="center">
 
@@ -78,47 +79,85 @@ Data & Operations
 
 <br><br>
 
-**Nano Course · 60 hours · September 2026**
+**Nano Course · 60 horas · Setembro de 2026**
 
-Validation key: `0437ACAE69B90920DABEC89E5C9B5235`
+**Chave de validação**
+
+`0437ACAE69B90920DABEC89E5C9B5235`
+
+<br>
+
+<a href="https://on.fiap.com.br/validar-certificado/">
+  <img src="https://img.shields.io/badge/Validar_Certificado-16324F?style=flat-square"/>
+</a>
 
 </div>
 
 ---
 
-## GitHub Overview
+## GitHub
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF"/>
+### Linguagens com maior uso nos meus commits
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=lvwerner&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF&icon_color=9AD0EC"/>
+<img height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lvwerner&theme=github_dark"/>
 
 <br><br>
 
-<img width="70%"
+### Atividade e commits
+
+<img height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lvwerner&theme=github_dark"/>
+
+<br><br>
+
+<img width="75%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=lvwerner&hide_border=true&background=0D1117&stroke=16324F&ring=9AD0EC&fire=9AD0EC&currStreakLabel=9AD0EC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 
 </div>
 
 ---
 
-## Career Direction
+## Foco de engenharia
 
 <div align="center">
 
-**Java Backend → Software Architecture → Technical Leadership**
+**Java Backend · Integrações · Confiabilidade · Arquitetura · Liderança Técnica**
 
 </div>
 
-My goal is to keep growing technically while taking more responsibility for system design, architectural decisions, code quality and technical guidance.
+```text
+Resolver o problema
+      ↓
+Entender a causa
+      ↓
+Corrigir com segurança
+      ↓
+Reduzir recorrência
+      ↓
+Evoluir a arquitetura
+```
+
+---
+
+## Direção profissional
+
+<div align="center">
+
+### Java Backend → Arquitetura de Software → Liderança Técnica
+
+</div>
+
+Busco evoluir para posições com maior responsabilidade técnica, contribuindo cada vez mais com **design de soluções, decisões arquiteturais, revisão de código, qualidade de engenharia e orientação técnica do time**.
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=lvwerner&style=flat-square&color=9AD0EC"/>
+<a href="https://www.linkedin.com/in/vinicius-werner/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinicius_Werner-16324F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
