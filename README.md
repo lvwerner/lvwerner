@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:16324F,100:9AD0EC&text=VINICIUS%20WERNER&fontColor=FFFFFF&fontSize=40&fontAlignY=42&desc=Java%20Developer%20at%20Neomind%20%7C%20Backend%20%7C%20Enterprise%20Systems&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0D1117,55:12263A,100:9AD0EC&text=VINICIUS%20WERNER&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=Java%20Developer%20at%20Neomind%20%7C%20Backend%20%7C%20Enterprise%20Systems&descAlignY=64"/>
 
 <br>
 
@@ -16,73 +16,52 @@
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-### Java Developer at Neomind
-
-Backend Development • Systems Integration • SQL • Business Process Automation
-
 </div>
 
 ---
 
 ## About Me
 
-Java Developer focused on backend development and enterprise systems.
+I am a **Java Developer at Neomind**, working with backend development, enterprise systems, integrations and business process automation.
 
-Working with system integrations, APIs, databases, business process automation and production troubleshooting.
+My day-to-day work involves maintaining and evolving corporate applications, building and supporting APIs, working with SQL Server, troubleshooting production issues and improving reliability across business-critical workflows.
 
-Currently growing toward **software architecture and technical leadership**, with focus on ownership, engineering decisions and reliable systems.
+I am currently strengthening my path toward **software architecture and technical leadership**, with focus on system design, technical ownership and engineering quality.
 
 ---
 
-## Core Stack
+## Main Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,git,linux"/>
+<img src="https://skillicons.dev/icons?i=java,docker,javascript&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-11%20%7C%2017-16324F?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-16324F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle-16324F?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Backend-16324F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-Database-16324F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_&_SOAP-APIs-16324F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-Containers-16324F?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Web-16324F?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 </div>
 
 ---
 
-## Backend & Integration
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SOAP_WebServices-0D1117?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Enterprise_Systems-0D1117?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Process_Automation-0D1117?style=for-the-badge"/>
-
-</div>
-
-<br>
+## What I Work With
 
 ```text
-Java Backend
-├── Enterprise Applications
-├── REST APIs
-├── SOAP / WebServices
-├── Systems Integration
+Backend Engineering
+├── Java
+├── REST & SOAP APIs
+├── Enterprise Systems
 └── Business Process Automation
 
-Data
+Data & Operations
 ├── SQL Server
-├── Oracle
-├── SQL Analysis
-└── Production Troubleshooting
+├── Production Troubleshooting
+├── Root Cause Analysis
+└── System Reliability
 ```
 
 ---
@@ -93,41 +72,36 @@ Data
 
 ### FIAP — Java Development
 
-<img src="https://img.shields.io/badge/FIAP-Java%20Development-ED145B?style=for-the-badge"/>
-
-<br><br>
-
-**Nano Course — Java Development**
-
-**60 hours · September 2026**
-
-<br><br>
-
 <a href="https://on.fiap.com.br/validar-certificado/">
-  <img src="https://img.shields.io/badge/Validate_Certificate-16324F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FIAP-Java%20Development-ED145B?style=for-the-badge"/>
 </a>
 
 <br><br>
 
-**Validation Key**
+**Nano Course · 60 hours · September 2026**
 
-`0437ACAE69B90920DABEC89E5C9B5235`
+Validation key: `0437ACAE69B90920DABEC89E5C9B5235`
 
 </div>
 
 ---
 
-## Engineering Focus
+## GitHub Overview
 
-```text
-Backend Engineering
-        │
-        ├── Reliable Systems
-        ├── Clean & Maintainable Code
-        ├── Production Troubleshooting
-        ├── System Integration
-        └── Software Architecture
-```
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF"/>
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=lvwerner&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF&icon_color=9AD0EC"/>
+
+<br><br>
+
+<img width="70%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=lvwerner&hide_border=true&background=0D1117&stroke=16324F&ring=9AD0EC&fire=9AD0EC&currStreakLabel=9AD0EC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+
+</div>
 
 ---
 
@@ -135,68 +109,15 @@ Backend Engineering
 
 <div align="center">
 
-### Java Backend → Software Architecture → Technical Leadership
+**Java Backend → Software Architecture → Technical Leadership**
 
 </div>
 
-My goal is to progressively take more responsibility for technical decisions, system design and engineering quality.
-
-Focused on developing skills in:
-
-- Software Architecture
-- System Design
-- Technical Decision-Making
-- Code Review
-- Engineering Ownership
-- Technical Leadership
+My goal is to keep growing technically while taking more responsibility for system design, architectural decisions, code quality and technical guidance.
 
 ---
-
-## GitHub
 
 <div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=lvwerner&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF&icon_color=9AD0EC"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## Selected Work
-
-### Java Product Management
-
-Java application developed during the **FIAP Java Development** course.
-
-```text
-Java
-├── Object-Oriented Programming
-├── Collections
-├── Streams
-├── Repository Pattern
-├── Layered Structure
-└── Maven
-```
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vinicius-werner/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vinicius_Werner-16324F?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:viniciushhardt@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-viniciushhardt-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=lvwerner&style=flat-square&color=9AD0EC"/>
 
