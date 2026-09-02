@@ -1,115 +1,203 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9AD0EC"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:16324F,100:9AD0EC&text=VINICIUS%20WERNER&fontColor=FFFFFF&fontSize=40&fontAlignY=42&desc=Java%20Developer%20at%20Neomind%20%7C%20Backend%20%7C%20Enterprise%20Systems&descAlignY=65"/>
 
 <br>
 
-<div align="center">
-  
-  <samp>
-    👋 Olá, eu sou o Vinicius Werner  
-    💻 Software Engineer | Java Backend  
-  </samp>
+<a href="https://www.linkedin.com/in/vinicius-werner/">
+  <img src="https://img.shields.io/badge/LinkedIn-16324F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:viniciushhardt@gmail.com">
+  <img src="https://img.shields.io/badge/Email-16324F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lvwerner">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### Java Developer at Neomind
+
+Backend Development • Systems Integration • SQL • Business Process Automation
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## About Me
 
-Desenvolvedor backend com foco em Java, atuando na construção e evolução de sistemas corporativos.
+Java Developer focused on backend development and enterprise systems.
 
-Experiência com desenvolvimento de APIs, integrações entre sistemas e automação de processos de negócio, sempre com foco em performance, escalabilidade e qualidade de código.
+Working with system integrations, APIs, databases, business process automation and production troubleshooting.
 
-Atuação em resolução de problemas em produção, análise de causa raiz e melhoria contínua de sistemas.
-
-Atualmente aprofundando conhecimentos em arquitetura de sistemas e cloud computing (AWS).
+Currently growing toward **software architecture and technical leadership**, with focus on ownership, engineering decisions and reliable systems.
 
 ---
 
-## ⚙️ Stack Principal
-
-### Backend
-- Java (11+)
-- Spring Boot
-- Hibernate / JPA
-- REST APIs
-
-### Banco de Dados
-- SQL Server
-- Oracle
-
-### Ferramentas
-- Git
-- Maven
-- Docker
-- Linux
-
-### Em evolução
-- AWS (S3, EC2, RDS, SQS)
-- Arquitetura distribuída
-
----
-
-## 🧠 Foco técnico
-
-- Desenvolvimento de sistemas backend corporativos  
-- Integração entre sistemas (APIs e WebServices)  
-- Automação de processos (BPM)  
-- Escrita de código limpo e manutenível  
-- Melhoria de performance e escalabilidade  
-
----
-
-## 🚀 Projetos em destaque
-
-### 🔹 Order Management API *(em desenvolvimento)*
-API backend para gerenciamento de pedidos
-
-- Arquitetura em camadas (Controller, Service, Repository)
-- Autenticação JWT
-- Persistência com JPA/Hibernate
-- Tratamento de erros e logs estruturados
-- Paginação e filtros
-
----
-
-### 🔹 Async Processing System *(em desenvolvimento)*
-Sistema distribuído para processamento assíncrono
-
-- Arquitetura baseada em mensageria
-- Fila (SQS/RabbitMQ)
-- Worker para processamento desacoplado
-- Armazenamento de arquivos (S3)
-- Controle de status e retry de falhas
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=6&theme=tokyonight&title_color=9AD0EC&border_radius=10"/>
-  <br><br>
-  <img align="center" alt="GitHub Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvwerner&theme=tokyonight"/>
-</div>
-
----
-
-## 🌐 Contato  
+## Core Stack
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-9AD0EC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciushhardt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9AD0EC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-werner/)
+<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,git,linux"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-11%20%7C%2017-16324F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-16324F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-16324F?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
 
 ---
 
-<p align="center">
-  <samp>
-    Focado em construir sistemas backend robustos e escaláveis.
-  </samp>
-</p>
+## Backend & Integration
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOAP_WebServices-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Enterprise_Systems-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Process_Automation-0D1117?style=for-the-badge"/>
+
+</div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9AD0EC&height=100&section=footer"/>
+```text
+Java Backend
+├── Enterprise Applications
+├── REST APIs
+├── SOAP / WebServices
+├── Systems Integration
+└── Business Process Automation
+
+Data
+├── SQL Server
+├── Oracle
+├── SQL Analysis
+└── Production Troubleshooting
+```
+
+---
+
+## Certification
+
+<div align="center">
+
+### FIAP — Java Development
+
+<img src="https://img.shields.io/badge/FIAP-Java%20Development-ED145B?style=for-the-badge"/>
+
+<br><br>
+
+**Nano Course — Java Development**
+
+**60 hours · September 2026**
+
+<br><br>
+
+<a href="https://on.fiap.com.br/validar-certificado/">
+  <img src="https://img.shields.io/badge/Validate_Certificate-16324F?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+**Validation Key**
+
+`0437ACAE69B90920DABEC89E5C9B5235`
+
+</div>
+
+---
+
+## Engineering Focus
+
+```text
+Backend Engineering
+        │
+        ├── Reliable Systems
+        ├── Clean & Maintainable Code
+        ├── Production Troubleshooting
+        ├── System Integration
+        └── Software Architecture
+```
+
+---
+
+## Career Direction
+
+<div align="center">
+
+### Java Backend → Software Architecture → Technical Leadership
+
+</div>
+
+My goal is to progressively take more responsibility for technical decisions, system design and engineering quality.
+
+Focused on developing skills in:
+
+- Software Architecture
+- System Design
+- Technical Decision-Making
+- Code Review
+- Engineering Ownership
+- Technical Leadership
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=lvwerner&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF&icon_color=9AD0EC"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvwerner&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=9AD0EC&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+## Selected Work
+
+### Java Product Management
+
+Java application developed during the **FIAP Java Development** course.
+
+```text
+Java
+├── Object-Oriented Programming
+├── Collections
+├── Streams
+├── Repository Pattern
+├── Layered Structure
+└── Maven
+```
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vinicius-werner/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinicius_Werner-16324F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:viniciushhardt@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-viniciushhardt-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=lvwerner&style=flat-square&color=9AD0EC"/>
+
+</div>
