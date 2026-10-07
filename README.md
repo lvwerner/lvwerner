@@ -79,6 +79,18 @@ Java Developer na **Neomind**, com atuação em desenvolvimento backend, integra
 
 <br>
 
+### Anthropic Academy
+
+<div align="center">
+  <a href="https://academy.claude.com/verify/545b32c8b24dccac98f94d1c3d30c67d">
+    <img src="assets/claude-101.png" alt="Claude 101 - Anthropic Academy" width="220"/>
+  </a>
+  <br>
+  <sub>Claude 101 · Anthropic Academy · <a href="https://academy.claude.com/verify/545b32c8b24dccac98f94d1c3d30c67d">verificar certificado</a></sub>
+</div>
+
+<br>
+
 | Certificado | Carga | Conclusão | Chave de validação |
 |---|:---:|:---:|---|
 | ☕ **Java Development** | 60h | 01/09/2026 | [`0437ACAE69B90920DABEC89E5C9B5235`](https://on.fiap.com.br/validar-certificado/) |
