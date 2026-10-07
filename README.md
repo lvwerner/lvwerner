@@ -38,15 +38,19 @@ Java Developer na **Neomind**, com atuação em desenvolvimento backend, integra
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,maven,idea,js,docker,git,githubactions,linux,bash,postman&perline=10&theme=dark"/>
-
-<br><br>
-
+<img src="https://img.shields.io/badge/Java-16324F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-16324F?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-16324F?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-16324F?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-16324F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST-16324F?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOAP-16324F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebServices-16324F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-16324F?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-16324F?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-16324F?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-16324F?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/SoapUI-16324F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-16324F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-16324F?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-16324F?style=for-the-badge&logo=claude&logoColor=white"/>
 
 </div>
 
