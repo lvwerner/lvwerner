@@ -20,6 +20,9 @@
 <a href="https://on.fiap.com.br/validar-certificado/">
   <img src="https://img.shields.io/badge/FIAP-3_certifica%C3%A7%C3%B5es-ED145B?style=for-the-badge"/>
 </a>
+<a href="https://academy.claude.com/verify/545b32c8b24dccac98f94d1c3d30c67d">
+  <img src="https://img.shields.io/badge/Claude_101-Anthropic_Academy-16324F?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</a>
 
 </div>
 
@@ -72,21 +75,11 @@ Java Developer na **Neomind**, com atuação em desenvolvimento backend, integra
 
 ## Certificações
 
+### FIAP
+
 <div align="center">
 <img src="https://img.shields.io/badge/FIAP-Nano_Courses-ED145B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Total-140_horas-16324F?style=for-the-badge"/>
-</div>
-
-<br>
-
-### Anthropic Academy
-
-<div align="center">
-  <a href="https://academy.claude.com/verify/545b32c8b24dccac98f94d1c3d30c67d">
-    <img src="assets/claude-101.png" alt="Claude 101 - Anthropic Academy" width="220"/>
-  </a>
-  <br>
-  <sub>Claude 101 · Anthropic Academy · <a href="https://academy.claude.com/verify/545b32c8b24dccac98f94d1c3d30c67d">verificar certificado</a></sub>
 </div>
 
 <br>
@@ -98,6 +91,18 @@ Java Developer na **Neomind**, com atuação em desenvolvimento backend, integra
 | 🚀 **DevOps & Agile Culture** | 60h | 03/10/2026 | [`E6C6EB084788CC473CCD32F1DBF2D899`](https://on.fiap.com.br/validar-certificado/) |
 
 <sub>Emitidos pelo FIAP – Centro Universitário. Validação em [on.fiap.com.br/validar-certificado](https://on.fiap.com.br/validar-certificado/).</sub>
+
+### Anthropic Academy
+
+<div align="center">
+
+<a href="https://academy.claude.com/verify/545b32c8b24dccac98f94d1c3d30c67d">
+  <img src="https://img.shields.io/badge/Claude_101-Anthropic_Academy-16324F?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</a>
+
+<sub>Certificado de conclusão emitido pela Anthropic · <a href="https://academy.claude.com/verify/545b32c8b24dccac98f94d1c3d30c67d">verificar certificado</a></sub>
+
+</div>
 
 ---
 
