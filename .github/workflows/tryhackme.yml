@@ -1,0 +1,70 @@
+name: TryHackMe
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/tryhackme.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    env:
+      THM_USER: viniciushhardt
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buscar dados do perfil
+        run: |
+          curl -fsSL -A "Mozilla/5.0 (GitHub Actions; lvwerner profile)" \
+            "https://tryhackme.com/api/v2/public-profile?username=${THM_USER}" -o thm.json
+          jq '.data | {level, rank, completedRoomsNumber, badgesNumber, streak, totalPoints}' thm.json
+
+      - name: Gerar card SVG
+        run: |
+          LEVEL=$(jq -r '.data.level // 0' thm.json)
+          RANK=$(jq -r '.data.rank | if type=="number" then "#\(.)" else (. // "—" | tostring) end' thm.json)
+          ROOMS=$(jq -r '.data.completedRoomsNumber // 0' thm.json)
+          BADGES=$(jq -r '.data.badgesNumber // 0' thm.json)
+          STREAK=$(jq -r '.data.streak // 0' thm.json)
+          POINTS=$(jq -r '.data.totalPoints // 0' thm.json)
+
+          cat > tryhackme.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="560" height="130" viewBox="0 0 560 130" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+            <rect x="0.5" y="0.5" width="559" height="129" rx="8" fill="#0D1117" stroke="#16324F"/>
+            <text x="24" y="34" fill="#9AD0EC" font-size="16" font-weight="600">TryHackMe</text>
+            <text x="536" y="34" fill="#8B949E" font-size="13" text-anchor="end">${THM_USER}</text>
+            <line x1="24" y1="48" x2="536" y2="48" stroke="#16324F"/>
+            <g font-size="12" fill="#8B949E">
+              <text x="24"  y="76">Nível</text>
+              <text x="110" y="76">Rank</text>
+              <text x="220" y="76">Salas</text>
+              <text x="306" y="76">Badges</text>
+              <text x="392" y="76">Streak</text>
+              <text x="470" y="76">Pontos</text>
+            </g>
+            <g font-size="22" font-weight="600" fill="#FFFFFF">
+              <text x="24"  y="106">${LEVEL}</text>
+              <text x="110" y="106">${RANK}</text>
+              <text x="220" y="106">${ROOMS}</text>
+              <text x="306" y="106">${BADGES}</text>
+              <text x="392" y="106">${STREAK}</text>
+              <text x="470" y="106">${POINTS}</text>
+            </g>
+          </svg>
+          EOF
+          cat tryhackme.svg
+
+      - name: Salvar no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tryhackme.svg
+          git diff --cached --quiet || git commit -m "Atualiza card TryHackMe"
+          git pull --rebase
+          git push
