@@ -20,12 +20,24 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Buscar dados do perfil
+        id: fetch
         run: |
-          curl -fsSL -A "Mozilla/5.0 (GitHub Actions; lvwerner profile)" \
-            "https://tryhackme.com/api/v2/public-profile?username=${THM_USER}" -o thm.json
-          jq '.data | {level, rank, completedRoomsNumber, badgesNumber, streak, totalPoints}' thm.json
+          URL="https://tryhackme.com/api/v2/public-profile?username=${THM_USER}"
+          for i in 1 2 3 4 5; do
+            CODE=$(curl -sS -o thm.json -w "%{http_code}" \
+              -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36" \
+              -H "Accept: application/json" "$URL" || echo 000)
+            echo "Tentativa $i: HTTP $CODE"
+            if [ "$CODE" = "200" ] && jq -e '.data.level' thm.json >/dev/null 2>&1; then
+              echo "ok=true" >> "$GITHUB_OUTPUT"; exit 0
+            fi
+            sleep $((i * 30))
+          done
+          echo "::warning::TryHackMe indisponível (HTTP $CODE); card mantido como está."
+          echo "ok=false" >> "$GITHUB_OUTPUT"
 
       - name: Gerar card SVG
+        if: steps.fetch.outputs.ok == 'true'
         run: |
           LEVEL=$(jq -r '.data.level // 0' thm.json)
           RANK=$(jq -r '.data.rank | if type=="number" then "#\(.)" else (. // "—" | tostring) end' thm.json)
@@ -42,16 +54,16 @@ jobs:
             <line x1="24" y1="48" x2="536" y2="48" stroke="#16324F"/>
             <g font-size="12" fill="#8B949E">
               <text x="24"  y="76">Nível</text>
-              <text x="110" y="76">Rank</text>
-              <text x="220" y="76">Salas</text>
+              <text x="96" y="76">Rank</text>
+              <text x="232" y="76">Salas</text>
               <text x="306" y="76">Badges</text>
               <text x="392" y="76">Streak</text>
               <text x="470" y="76">Pontos</text>
             </g>
-            <g font-size="22" font-weight="600" fill="#FFFFFF">
+            <g font-size="20" font-weight="600" fill="#FFFFFF">
               <text x="24"  y="106">${LEVEL}</text>
-              <text x="110" y="106">${RANK}</text>
-              <text x="220" y="106">${ROOMS}</text>
+              <text x="96" y="106">${RANK}</text>
+              <text x="232" y="106">${ROOMS}</text>
               <text x="306" y="106">${BADGES}</text>
               <text x="392" y="106">${STREAK}</text>
               <text x="470" y="106">${POINTS}</text>
@@ -61,6 +73,7 @@ jobs:
           cat tryhackme.svg
 
       - name: Salvar no repositório
+        if: steps.fetch.outputs.ok == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
