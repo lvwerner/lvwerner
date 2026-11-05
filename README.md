@@ -46,12 +46,22 @@
 |---|---|---|
 | **Java** | <img src="https://img.shields.io/badge/Java-16324F?style=for-the-badge&logo=openjdk&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Spring_Boot-16324F?style=for-the-badge&logo=springboot&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Hibernate-16324F?style=for-the-badge&logo=hibernate&logoColor=9AD0EC"/> | Uso profissional desde fev/2024 · certificação FIAP |
 | **Integrações** | <img src="https://img.shields.io/badge/REST-16324F?style=for-the-badge&logo=fastapi&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/SOAP-16324F?style=for-the-badge&logo=xml&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Postman-16324F?style=for-the-badge&logo=postman&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/SoapUI-16324F?style=for-the-badge&logo=soapui&logoColor=9AD0EC"/> | Uso profissional |
-| **Segurança** | <img src="https://img.shields.io/badge/Pentest-16324F?style=for-the-badge&logo=hackthebox&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/OWASP_Top_10-16324F?style=for-the-badge&logo=owasp&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Secure_Coding-16324F?style=for-the-badge&logo=letsencrypt&logoColor=9AD0EC"/> | Formação FIAP em andamento |
+| **Segurança** | <img src="https://img.shields.io/badge/Pentest-16324F?style=for-the-badge&logo=hackthebox&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/OWASP_Top_10-16324F?style=for-the-badge&logo=owasp&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Secure_Coding-16324F?style=for-the-badge&logo=letsencrypt&logoColor=9AD0EC"/> <a href="https://tryhackme.com/p/viniciushhardt"><img src="https://img.shields.io/badge/TryHackMe-16324F?style=for-the-badge&logo=tryhackme&logoColor=9AD0EC"/></a> | Formação FIAP em andamento · TryHackMe |
 | **DevOps** | <img src="https://img.shields.io/badge/Docker-16324F?style=for-the-badge&logo=docker&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/CI%2FCD-16324F?style=for-the-badge&logo=githubactions&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Git-16324F?style=for-the-badge&logo=git&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/GitLab-16324F?style=for-the-badge&logo=gitlab&logoColor=9AD0EC"/> | Certificação FIAP |
 | **Infraestrutura** | <img src="https://img.shields.io/badge/AWS_EC2-16324F?style=for-the-badge&logo=amazonec2&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Linux-16324F?style=for-the-badge&logo=linux&logoColor=9AD0EC"/> | Certificação FIAP · projetos pessoais |
 | **Dados** | <img src="https://img.shields.io/badge/SQL_Server-16324F?style=for-the-badge&logo=microsoftsqlserver&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/DBeaver-16324F?style=for-the-badge&logo=dbeaver&logoColor=9AD0EC"/> | Uso profissional |
 | **Outras linguagens** | <img src="https://img.shields.io/badge/Python-16324F?style=for-the-badge&logo=python&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/JavaScript-16324F?style=for-the-badge&logo=javascript&logoColor=9AD0EC"/> | — |
 | **Ferramentas** | <img src="https://img.shields.io/badge/IntelliJ-16324F?style=for-the-badge&logo=intellijidea&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/VS_Code-16324F?style=for-the-badge&logo=visualstudiocode&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Jira-16324F?style=for-the-badge&logo=jira&logoColor=9AD0EC"/> <img src="https://img.shields.io/badge/Claude_Code-16324F?style=for-the-badge&logo=claude&logoColor=9AD0EC"/> | Uso diário |
+
+---
+
+### TryHackMe
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/viniciushhardt"><img src="https://raw.githubusercontent.com/lvwerner/lvwerner/main/tryhackme.svg" alt="TryHackMe — viniciushhardt"/></a>
+
+</div>
 
 ---
 
