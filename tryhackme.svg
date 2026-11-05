@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="130" viewBox="0 0 560 130" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="559" height="129" rx="8" fill="#0D1117" stroke="#16324F"/>
+  <text x="24" y="34" fill="#9AD0EC" font-size="16" font-weight="600">TryHackMe</text>
+  <text x="536" y="34" fill="#8B949E" font-size="13" text-anchor="end">viniciushhardt</text>
+  <line x1="24" y1="48" x2="536" y2="48" stroke="#16324F"/>
+  <g font-size="12" fill="#8B949E">
+    <text x="24"  y="76">Nível</text>
+    <text x="96" y="76">Rank</text>
+    <text x="232" y="76">Salas</text>
+    <text x="306" y="76">Badges</text>
+    <text x="392" y="76">Streak</text>
+    <text x="470" y="76">Pontos</text>
+  </g>
+  <g font-size="20" font-weight="600" fill="#FFFFFF">
+    <text x="24"  y="106">1</text>
+    <text x="96" y="106">Top 100%</text>
+    <text x="232" y="106">1</text>
+    <text x="306" y="106">0</text>
+    <text x="392" y="106">1</text>
+    <text x="470" y="106">40</text>
+  </g>
+</svg>
